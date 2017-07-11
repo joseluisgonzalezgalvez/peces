@@ -1,5 +1,6 @@
 !assets/.gitignore
 !assets/js
+assets/
 protected/runtime/*.log
 !protected/runtime/.gitignore
 protected/data/*.db
@@ -8,3 +9,6 @@ protected/config/main.php
 .buildpath
 .project
 .settings/
+protected/data/MER_peces_comerciales.mwb.bak
+protected/data/migracion_20-03-2015/
+protected/data/migracion/migracion.php
